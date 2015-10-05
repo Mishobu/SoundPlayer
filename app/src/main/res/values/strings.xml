@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soundplayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_player">Sound Player</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="sonido1">Sonido 1:  </string>
+    <string name="sonido2">Sonido 2: </string>
+    <string name="sonido3">Sonido 3:  </string>
+</resources>
